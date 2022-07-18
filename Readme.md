@@ -38,7 +38,7 @@ arrhythmias	B-disease
 }
 ```
 
-## Excel / CSV
+## Excel / CSV + NLTK POS Tagging
 
 | Sentence #  | Word        | POS | Tag       |
 | ----------- | ----------- | --- | --------- |
