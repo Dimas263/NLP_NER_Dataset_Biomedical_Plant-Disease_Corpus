@@ -27,7 +27,7 @@ arrhythmias	B-disease
 ```
 
 ## Json
-```json
+```yaml
 {
   "id": 447, 
   "text": "studies on magnesium s mechanism of action in digitalis induced arrhythmias", 
