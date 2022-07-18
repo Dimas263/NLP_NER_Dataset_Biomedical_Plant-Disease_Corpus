@@ -9,7 +9,7 @@
 
 ## Annotated
 ```yaml
-"Studies on magnesium\'s mechanism of action in <ENAMEX TYPE="plant">digitalis</ENAMEX> -induced <ENAMEX TYPE="disease">arrhythmias</ENAMEX> ."
+"Studies on magnesium's mechanism of action in <ENAMEX TYPE="plant">digitalis</ENAMEX> -induced <ENAMEX TYPE="disease">arrhythmias</ENAMEX> ."
 ```
 
 ## B-I-O
